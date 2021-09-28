@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @hazelnutcloud
-- 👀 I’m interested in learning web dev, flutter dev, 3D modelling, and machine learning !
-- 🌱 I’m currently learning web dev on freecodecamp and studying DSA on my own !
-- 💞️ I’m looking to collaborate on anything! feel free to check out my repos
-- 📫 How to reach me @hsnmkls on twitter
+- 👋 Hi, I’m Hasan.
+- 👨‍✈️ I used to fly airplanes for a living.
+- 💻 Now all I do is code!
+- 🐤 Follow me @hsnmkls(https://twitter.com/hsnmkls) on twitter!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazelnutcloud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
